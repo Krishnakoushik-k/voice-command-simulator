@@ -24,5 +24,5 @@ Then install the required Python libraries:
 ```bash
 pip install speechrecognition pyttsx3
 
-# to run the project
+# how to run the project
 python voice_controlled_simulator.py
