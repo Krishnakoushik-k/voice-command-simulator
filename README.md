@@ -1,4 +1,4 @@
-# voice-command-simulator# 
+# voice-command-simulator
 
 A Python GUI project that uses **speech recognition** and **text-to-speech** to control a moving object on the screen by voice commands like  
  “move forward"
